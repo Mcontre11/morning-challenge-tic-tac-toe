@@ -9,7 +9,7 @@
 ### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
 
 ### How it's made:
-This game was made using HTML, CSS and Javascript with as much object-oriented programming as I could code with very little knowledge or experience. This is also a mobile, tablet, and desktop responsive game.
+This game was made using HTML, CSS and Javascript with as much object-oriented programming. This is also a mobile, tablet, and desktop responsive game.
 
 ### Lessons learned were object oriented program:
 By making code resemble real-world objects, object-oriented programming makes the code easier to think about. It’s about organizing concepts in an understandable way.
